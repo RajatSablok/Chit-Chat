@@ -22,8 +22,8 @@
 ## Instructions to run
 
 ```
-$ git clone https://github.com/RajatSablok/Super-Waddle.git
-$ cd Super-Waddle
+$ git clone https://github.com/RajatSablok/Chit-Chat.git
+$ cd Chit-Chat
 $ npm install
 $ npm start
 ```
